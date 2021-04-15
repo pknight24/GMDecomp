@@ -3,3 +3,4 @@
 S3method(biplot,gmd)
 S3method(screeplot,gmd)
 export(GMD)
+export(fastGMD)
